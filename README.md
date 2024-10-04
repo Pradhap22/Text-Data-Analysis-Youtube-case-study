@@ -1,0 +1,2 @@
+# Analyzing-Viewer-Engagement-and-Content-Trends-on-YouTube-A-Text-Data-Approach
+This case study explores the methodologies and insights derived from text data analysis of YouTube content and viewer interactions. By leveraging natural language processing (NLP) techniques and data mining tools, the study examines video titles, descriptions, comments, and tags to uncover patterns in viewer engagement and content trends.
